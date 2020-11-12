@@ -2,6 +2,14 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/computervision" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dataset" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/face_detector" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/known_faces" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PythonVideoPulserate" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rPPG" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/unknown_faces" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/webcam_pulse_detector" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.6 (pythonProject)" jdkType="Python SDK" />
